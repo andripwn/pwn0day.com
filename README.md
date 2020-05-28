@@ -1,2 +1,2 @@
-# potterpwn.github.io
-potterpwn.github.io
+# Publicy Project
+pwn0day.com
